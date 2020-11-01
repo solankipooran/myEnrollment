@@ -1,0 +1,6 @@
+framework module Pods_MyEnrollment {
+  umbrella header "Pods-MyEnrollment-umbrella.h"
+
+  export *
+  module * { export * }
+}
